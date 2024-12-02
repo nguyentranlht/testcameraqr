@@ -41,6 +41,7 @@ dependencies:
   permission_handler: ^11.3.1
   video_player: ^2.5.0
   gallery_saver: ^2.3.0
+  aws_storage_service: ^1.0.10
 dev_dependencies:
   flutter_test:
     sdk: flutter
